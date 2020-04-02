@@ -1,0 +1,8 @@
+# Ignore
+.*~
+*~
+/.emacs.d/*
+
+# Version control
+!/.emacs.d/init.el
+!/.emacs.d/conf
